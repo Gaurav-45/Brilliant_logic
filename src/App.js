@@ -1,23 +1,28 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from "./components/Header";
+import Logic from "./components/Logic";
+import Introduction from './components/Introduction';
+import RationalDetective from './components/RationalDetective';
+import PuzzleRiddles from './components/PuzzleRiddles';
+import MultiThink from './components/MultiThink';
+import Competetive from './components/Competetive';
+import LogicMachine from './components/LogicMachine';
+import KnightsKnaves from './components/KnightsKnaves';
+import NextSteps from './components/NextSteps';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header/>
+      <Logic/>
+      <Introduction/>
+      <RationalDetective/>
+      <PuzzleRiddles/>
+      <MultiThink/>
+      <Competetive/>
+      <LogicMachine/>
+      <KnightsKnaves/>
+      <NextSteps/>
     </div>
   );
 }
