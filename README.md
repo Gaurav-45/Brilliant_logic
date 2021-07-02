@@ -2,10 +2,15 @@ Web Page- Practice Logic | Brilliant
 
 
 Used ReactJS to developed the above web page.
+
+
 Libraries used: 
 React
+
 React-dom
+
 Material UI icons: To use the icons required in web app.
+
 Styled-components: To design a react component within .js file and apply CSS to it according to need. So those components can be reuse without adding className at each time.
 
 
