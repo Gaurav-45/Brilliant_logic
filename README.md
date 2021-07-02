@@ -15,7 +15,7 @@ Styled-components: To design a react component within .js file and apply CSS to 
 
 
 Run App:
-1. After downloading the zip file, unzip file and open the folder in any code editor.
+1. After downloading the zip file, unzip it and open the folder in any code editor.
 2. cd to the ‘Brilliant_logic-master’.
 3. Open the terminal and run command ‘npm install’ or ‘npm i’ to install dependencies.
 4. Once all dependencies are installed run ‘npm start’ to start the server.
